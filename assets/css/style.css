@@ -12,12 +12,19 @@
     background-color: #1b1923;
     height: 150;
     padding: 2px;
+    padding: 5px;
+    padding-top: 7px;
     margin: 15px;
-    border-radius: 80px;
+    border-radius: 100px;
+}
+.bugger1{
+    height: 130px;
 }
 .circle{
-    height: 140px;
-    width: 140px;
+    height: 145px;
+    width: 145px;
+    background-color: #0F0F11;
+    border-radius: 100px;
 }
 .cart_i{
     height: 3opx;
