@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'futura';
+    src: url(../font/futura.ttf);
+}
+.logo{
+    height: 3opx;
+    width: 30px;
+    margin: 5px;
+    margin-top: 7px;
+}
+.section1{
+    background-color: #1b1923;
+    height: 150;
+    padding: 2px;
+    margin: 15px;
+    border-radius: 80px;
+}
+.circle{
+    height: 140px;
+    width: 140px;
+}
+.cart_i{
+    height: 3opx;
+    width: 30px;
+    margin: 5px;
+    margin-top: 9px;
+}
+.name{
+    color: #FED231;
+    float: left;
+    margin: 15px;
+}
+    .login{
+        float: right;
+        height: 25px;
+        width: 70px;
+        border-radius: 50px;
+        background-color: #0F0F11;
+        margin: 5px;
+        margin-top: 12px;
+        padding-left: 5px;
+        border: none;
+        font-size: 12px;
+        color: #FED231;
+    }
+    .login_text{
+        margin-top: 5px;
+    }
+    .cart{
+        float: right;
+        height: 40px;
+        width: 40px;
+        border-radius: 50px;
+        background-color: #0F0F11;
+        margin: 5px;
+    }
+    .search{
+        width: 130px;
+        height: 40px;
+        background-color: #0F0F11;
+        float: left;
+        margin: 5px;
+        border-radius: 50px;
+        /* border: solid 1px #FED231; */
+        border: 1px solid #3a3a3b;
+        padding: 5px;
+        text-align: center;
+    }
+
+    .serch_b{
+        margin-top: 15px;
+        height: 20px;
+    }
+    .logo_div{
+        border-radius: 50px;
+        background-color: #0F0F11;
+        height: 40px;
+        width: 40px;
+        margin: 5px;
+        margin-top: 5px;
+        float: left;
+    }
+body{
+    background-color: #0F0F11;
+    font-family: futura;
+}
+.nav{
+    padding: 2px;
+    margin: 15px;
+    height: 50px;
+    width: 95%;
+    border-radius: 50px;
+    background-color: #1B1923;
+}
